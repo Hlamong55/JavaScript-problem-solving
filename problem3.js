@@ -12,4 +12,6 @@ function isPalindrome(str) {
   } else {
     return false;
   }
-}
+};
+
+// console.log(isPalindrome("madam"));
